@@ -1,1 +1,1 @@
-console.log("Hello World from second project!");
+console.log("Hello World from project 'multi'!");
